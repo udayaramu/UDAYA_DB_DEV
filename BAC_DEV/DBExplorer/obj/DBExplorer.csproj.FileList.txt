@@ -1,0 +1,9 @@
+bin\Debug\DBExplorer.exe.config
+bin\Debug\DBExplorer.exe
+bin\Debug\DBExplorer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DBExplorer.frmdbexplorer.resources
+obj\Debug\DBExplorer.frmlogin.resources
+obj\Debug\DBExplorer.csproj.GenerateResource.Cache
+obj\Debug\DBExplorer.exe
+obj\Debug\DBExplorer.pdb

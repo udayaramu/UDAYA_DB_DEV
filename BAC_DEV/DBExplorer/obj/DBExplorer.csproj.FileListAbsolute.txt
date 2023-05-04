@@ -1,0 +1,9 @@
+D:\CSS-Stuff\Personal\CodeSamples\DBExplorer\bin\Debug\DBExplorer.exe.config
+D:\CSS-Stuff\Personal\CodeSamples\DBExplorer\obj\Debug\DBExplorer.exe
+D:\CSS-Stuff\Personal\CodeSamples\DBExplorer\obj\Debug\DBExplorer.pdb
+D:\CSS-Stuff\Personal\CodeSamples\DBExplorer\bin\Debug\DBExplorer.exe
+D:\CSS-Stuff\Personal\CodeSamples\DBExplorer\bin\Debug\DBExplorer.pdb
+D:\CSS-Stuff\Personal\CodeSamples\DBExplorer\obj\Debug\ResolveAssemblyReference.cache
+D:\CSS-Stuff\Personal\CodeSamples\DBExplorer\obj\Debug\DBExplorer.frmdbexplorer.resources
+D:\CSS-Stuff\Personal\CodeSamples\DBExplorer\obj\Debug\DBExplorer.frmlogin.resources
+D:\CSS-Stuff\Personal\CodeSamples\DBExplorer\obj\Debug\DBExplorer.csproj.GenerateResource.Cache

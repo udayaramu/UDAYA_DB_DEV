@@ -1,0 +1,11 @@
+E:\Udaya\Dev\BAC_DEV\OraGen\bin\Debug\OracleGen.exe.config
+E:\Udaya\Dev\BAC_DEV\OraGen\bin\Debug\DataTypes.xml
+E:\Udaya\Dev\BAC_DEV\OraGen\bin\Debug\OracleGen.exe
+E:\Udaya\Dev\BAC_DEV\OraGen\bin\Debug\OracleGen.pdb
+E:\Udaya\Dev\BAC_DEV\OraGen\obj\Debug\OracleGen.CodeOptionsDialog.resources
+E:\Udaya\Dev\BAC_DEV\OraGen\obj\Debug\OracleGen.ConnectDialog.resources
+E:\Udaya\Dev\BAC_DEV\OraGen\obj\Debug\OracleGen.Form1.resources
+E:\Udaya\Dev\BAC_DEV\OraGen\obj\Debug\OracleGen.Properties.Resources.resources
+E:\Udaya\Dev\BAC_DEV\OraGen\obj\Debug\OracleGen.csproj.GenerateResource.Cache
+E:\Udaya\Dev\BAC_DEV\OraGen\obj\Debug\OracleGen.exe
+E:\Udaya\Dev\BAC_DEV\OraGen\obj\Debug\OracleGen.pdb

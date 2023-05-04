@@ -1,0 +1,8 @@
+E:\Udaya\DBExplorer\bin\Debug\DBExplorer.exe.config
+E:\Udaya\DBExplorer\obj\Debug\DBExplorer.exe
+E:\Udaya\DBExplorer\obj\Debug\DBExplorer.pdb
+E:\Udaya\DBExplorer\bin\Debug\DBExplorer.exe
+E:\Udaya\DBExplorer\bin\Debug\DBExplorer.pdb
+E:\Udaya\DBExplorer\obj\Debug\DBExplorer.frmdbexplorer.resources
+E:\Udaya\DBExplorer\obj\Debug\DBExplorer.frmlogin.resources
+E:\Udaya\DBExplorer\obj\Debug\DBExplorer.csproj.GenerateResource.Cache

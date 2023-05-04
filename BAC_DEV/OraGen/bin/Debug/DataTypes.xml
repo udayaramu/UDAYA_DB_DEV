@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DocumentElement>
+  <TypeMapping>
+    <SourceType>NVARCHAR2</SourceType>
+    <TargetType>NVarChar</TargetType>
+    <TargetMethodType>string</TargetMethodType>
+    <IncludeLength>1</IncludeLength>
+  </TypeMapping>
+  <TypeMapping>
+    <SourceType>VARCHAR2</SourceType>
+    <TargetType>VarChar</TargetType>
+    <TargetMethodType>string</TargetMethodType>
+    <IncludeLength>1</IncludeLength>
+  </TypeMapping>
+  <TypeMapping>
+    <SourceType>DATE</SourceType>
+    <TargetType>DateTime</TargetType>
+    <TargetMethodType>DateTime</TargetMethodType>
+    <IncludeLength>0</IncludeLength>
+  </TypeMapping>
+  <TypeMapping>
+    <SourceType>NCLOB</SourceType>
+    <TargetType>NClob</TargetType>
+    <TargetMethodType>String</TargetMethodType>
+    <IncludeLength>0</IncludeLength>
+  </TypeMapping>
+  <TypeMapping>
+    <SourceType>NUMBER</SourceType>
+    <TargetType>Number</TargetType>
+    <TargetMethodType>int</TargetMethodType>
+    <IncludeLength>0</IncludeLength>
+  </TypeMapping>
+  <TypeMapping>
+    <SourceType>T_CURSOR</SourceType>
+    <TargetType>Cursor</TargetType>
+    <TargetMethodType>Cursor</TargetMethodType>
+    <IncludeLength>0</IncludeLength>
+  </TypeMapping>
+</DocumentElement>
